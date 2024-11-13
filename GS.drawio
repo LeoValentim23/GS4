@@ -1,9 +1,24 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.4">
   <diagram name="Página-1" id="6MO5h038yUR3gQHgvNjc">
-    <mxGraphModel>
+    <mxGraphModel dx="978" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="oyNhA-vguK9y2dLcHoVu-1" value="Java" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="50" y="40" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="oyNhA-vguK9y2dLcHoVu-2" value="C#" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="350" y="40" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="oyNhA-vguK9y2dLcHoVu-3" value="Mobile" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="230" y="310" width="180" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="oyNhA-vguK9y2dLcHoVu-4" value="" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="180" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="oyNhA-vguK9y2dLcHoVu-5" value="" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="180" width="100" height="110" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
